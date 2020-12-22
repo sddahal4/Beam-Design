@@ -3,3 +3,5 @@ A program to design beams as per IS 456 and IS 13920. With Basic Graphical User 
 Generally while designing beams we do not consider the shear force when plastic hinges are formed in both ends.
 This program will consider shear force from input, and calculate the plastic hinges shear force from provided reinforcement.
 It is done using tkinter in python.
+The procedure followed is from the following document:
+https://www.iitk.ac.in/nicee/IITGN-WB/EQ03.pdf
